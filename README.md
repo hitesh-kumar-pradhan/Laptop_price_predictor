@@ -17,3 +17,6 @@ Predict the price of the Laptop based on common features like Memory,Processor a
 | OpSys	| Operating System of laptop |
 | Weight	| Weight of laptop in kg |
 | Price	| Laptop price in ( ₹ ) Indian Rupee |
+
+* Scikit-learn library is used to build the machine learning model.
+* Streamlit is used to make a web application that allows users to select the laptop specifications and user gets tentative price of the laptop.
