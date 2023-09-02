@@ -5,6 +5,7 @@ Predict the price of the Laptop based on common features like Memory,Processor a
 
 # Dataset Description
 | Column name	| Description |
+| ---------- | ----------- |
 | Company |	Laptop manufcturing company names |
 | TypeName	| Type of laptop (Notebook, Ultrabook, 2in1, etc.) |
 | Inches	| Laptop screen size in inches |
